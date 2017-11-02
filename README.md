@@ -1,3 +1,6 @@
+关于webpack打包器结合vue的配置
+===
+
 # myvuex
 
 > A Vue.js project
